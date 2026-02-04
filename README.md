@@ -2,10 +2,10 @@
 
 Project Code for SMS Science Fair 2026. This code is for you to run the motors using your arduino uno r3.
 
-Prerequisites:
+# Prerequisites:
 1. Arduino Uno IDE 2
 
-Instructions:
+# Instructions:
 
 1. Download the Ardhex-SF2026.ino
 2. Open the code onto the IDE.
